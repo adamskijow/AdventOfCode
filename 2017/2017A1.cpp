@@ -10,11 +10,8 @@
   #define _tmain main
 #endif
 
-#include <stdio.h>
-#include <string>
 #include <iostream>
 #include <fstream>
-#include <cstdlib>
 
 using namespace std;
 
